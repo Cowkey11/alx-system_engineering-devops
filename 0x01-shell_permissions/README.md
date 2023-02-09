@@ -5,3 +5,4 @@ chown changes file ownership
 touch hello creates empty file hello
 chmod modifies file permissions
 chmod 774 adds execute permissions to owner and group owner and read to others
+chmod 755 hello adds execution permission to owner, group owner and others for hello
