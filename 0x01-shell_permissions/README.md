@@ -10,3 +10,4 @@ chmod 007 hello modifies hello file permissions to none for owner and group owne
 chmod 753 hello sets hello file persmissions to all for owner, read and execute for group ownwer and write and excecute for others
 chmod 644 hello mirrors permissions of olleh file which has rw-r--r--
 chmod 755 directory sets executable permission to directory 0x01-shell_permissions for owner, group and others
+chgrp school hello sets hello file's group owner to school
