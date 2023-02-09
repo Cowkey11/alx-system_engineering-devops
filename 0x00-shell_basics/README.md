@@ -1,3 +1,4 @@
-print working directory
-listing files in current directory
-changes working directory to users home directory
+PWD print working directory
+LS listing files in current directory
+CD changes working directory to users home directory
+LS -L display current directory contents in long
