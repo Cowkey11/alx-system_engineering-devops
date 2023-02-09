@@ -10,3 +10,4 @@ delete directory my_first_directory in /tmp
 changes working directory to the previous one
 lists files including hidden in current, parent of working and /boot directories
 prints type of file named iamafile
+copies all html including new and previously nonexistent from . to ..
