@@ -7,3 +7,4 @@ MKDIR /TMP/MY_FIRST_DIRECTORY creates directory in/tmp
 move betty from /tmp to /tmp/my_first_directory
 delete the file betty
 delete directory my_first_directory in /tmp
+changes working directory to the previous one
