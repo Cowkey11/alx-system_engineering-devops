@@ -7,3 +7,4 @@ chmod modifies file permissions
 chmod 774 adds execute permissions to owner and group owner and read to others
 chmod 755 hello adds execution permission to owner, group owner and others for hello
 chmod 007 hello modifies hello file permissions to none for owner and group owner and all for others
+chmod 713 hello sets hello file persmissions to all for owner, execute for group ownwer and write and excecute for others
