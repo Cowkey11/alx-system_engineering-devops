@@ -8,3 +8,4 @@ move betty from /tmp to /tmp/my_first_directory
 delete the file betty
 delete directory my_first_directory in /tmp
 changes working directory to the previous one
+lists files including hidden in current, parent of working and /boot directories
